@@ -11,8 +11,15 @@ yy
 dd
 "0p
 ```
-
-
+- comment html (emmet)
+  - mode: insert
+  - cursor: at start or end of tag
+  - key: <c-y> /
+- rename tag (vim-surrouned)
+  - mode: normal
+  - cursor: in on `word` (ex <div>word</div>)
+  - key: cst<p
+  
 TMux
 
 - `Ctrl a` leader key
